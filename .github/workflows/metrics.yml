@@ -52,9 +52,10 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_notable: yes
-          plugin_notable_filter: stars:>500 forks:>100 commits.user%:>5
+          plugin_notable_filter: commits.user%:>5
           plugin_notable_from: organization
           plugin_notable_indepth: yes
           plugin_notable_types: commit
           plugin_repositories: yes
+          plugin_repositories_featured: CHIP-8-Emulator
           plugin_repositories_order: featured, pinned, starred, random
