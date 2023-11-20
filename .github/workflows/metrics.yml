@@ -53,5 +53,5 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_repositories: yes
-          plugin_repositories_featured: CHIP-8-Emulator
+          plugin_repositories_featured: CHIP-8-Emulator, provable-prime-generator
           plugin_repositories_order: featured, pinned, starred, random
